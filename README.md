@@ -5,6 +5,15 @@
 ### <p style="text-indent:2em">1.2 消費電力量</p>
 ### <p style="text-indent:2em">1.3 内部発熱</p>
 
+
+## 4. テレビ（[television.ipynb](/television.ipynb)）
+### <p style="text-indent:2em">4.1 定義</p>
+### <p style="text-indent:2em">4.2 消費電力量</p>
+### <p style="text-indent:2em">4.3 稼働時および待機時の消費電力量</p>
+### <p style="text-indent:2em">4.4 稼働時および待機時の消費電力</p>
+### <p style="text-indent:2em">4.5 標準条件</p>
+### <p style="text-indent:2em">付録1：サンプルコード</p>
+
 ## 9. 温水暖房洗浄便座（[toiletseat.ipynb](/toiletseat.ipynb)）
 ### <p style="text-indent:2em">9.1 定義</p>
 ### <p style="text-indent:2em">9.2 消費電力量</p>
